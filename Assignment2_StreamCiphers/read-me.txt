@@ -1,0 +1,11 @@
+CS-411 Homework 2 by Ege Kaan Özalp
+
+	1. For each of the questions that I solved, there exists a corresponding
+	   "QuestionX_EgeKaanOzalp_CS411.py" file.
+
+	2. "CS41507_hw02_egekaanozalp.pdf" file contains the explanations and answers
+	   of the questions that I solved. However, in some questions, the code may 
+	   contain more information than the pdf file due to the type of the question.
+
+	3. For any format based issue, I would kindly request you to contact me so
+	   that I can handle it and change it in the desired format.
